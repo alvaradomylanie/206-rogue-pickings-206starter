@@ -170,3 +170,26 @@ footer span {
 	color: #77a466;
 	font-size: 0.875em;
 }
+*****/MOBILE/*****
+@media (min-width: 400px) {
+	orientation: portrait;
+}
+
+
+*****/TABLET/*****
+@media (max-width: 700px) {
+	orientation: landscape portrait;
+}
+
+*****/DESKTOP/*****
+@media (max-width: 1200px) {
+	orientation: landscape;
+}
+
+
+
+
+
+
+
+
